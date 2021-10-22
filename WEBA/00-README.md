@@ -1,6 +1,6 @@
 # World English Bible (WEB) - U.S. spelling
 
-Derived from the USFX version of the WEB, downloaded on Dec. 8, 2020 from
+Derived from the USFX version of the WEB, downloaded on Oct. 19, 2021 from
 https://ebible.org/Scriptures/engwebp_usfx.zip.
 
 1. Download engwebp_usfx.zip to the current directory
@@ -11,10 +11,6 @@ https://ebible.org/Scriptures/engwebp_usfx.zip.
 (needs Python 3.9 or later)
 
 4. Move the generated `*.org` files to your `org-roam` directory.
-
-NOTE: I have made two manual corrections after step 3:\
-a) In 2 Chronicles 3:15 (14-2CH03.org), the word 'heigh' was replaced by 'high'.\
-b) In Zephaniah 1:17 (file 36-ZEP01.org), a full stop (.) was added between 'Yahweh' and 'Their'
 
 ## License:
 
