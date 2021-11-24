@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # This Python program generates an Interlinear Greek bible in org-roam format
-# from a source file OpenGNT_version3_3.csv. It needs Python version at least 3.9
+# from a source file OpenGNT_version3_3.csv. It needs Python version at least 3.6
 # This program in in the public domain.
 # Author: Pieter van Oostrum, <pieter@vanoostrum.org>
 

@@ -6,7 +6,7 @@ Downloaded 2021-09-12.
 
 File: `OpenGNT_BASE_TEXT.zip`, unzipped, ⇒ `OpenGNT_version3_3.csv`\
 run `python3 makeorg.py`\
-(needs Python 3.9 or later)\
+(needs Python 3.6 or later)\
 Move the generated `*.org` files to your `org-roam` directory.
 
 ## License:
