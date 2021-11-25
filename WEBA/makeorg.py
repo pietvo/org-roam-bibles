@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from lxml import etree
+import xml.etree.ElementTree as ET
 import sys
 import re
 
@@ -93,7 +93,7 @@ INFILE = sys.argv[1]
 fileno = 0
 outfile = None
 
-root = etree.parse(INFILE)
+root = ET.parse(INFILE)
 
 for book in root.iter('book'):
 

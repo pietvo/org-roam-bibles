@@ -10,9 +10,6 @@ https://ebible.org/Scriptures/engwebp_usfx.zip.
 3. run `python3 makeorg.py engwebp_usfx.xml`\
 (needs Python 3.6 or later).
 
-**NOTE:** This requires the `lxml` package, which can be installed with\
-`python3 -m pip install lxml`. It might be possible to rewrite the script to use the standard `xml.etree.ElementTree` module. I haven't tried that; I like `lxml`.
-
 4. Move the generated `*.org` files to your `org-roam` directory.
 
 ## License:
