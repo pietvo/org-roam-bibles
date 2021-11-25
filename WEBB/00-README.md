@@ -8,7 +8,7 @@ https://ebible.org/Scriptures/engwebpb_usfx.zip.
 2. Extract `engwebpb_usfx.xml` from the zip file.
 
 3. run `python3 makeorg.py engwebpb_usfx.xml`\
-where `makeorg.py` is found in the `WEBA` directory (needs Python 3.9 or later).
+where `makeorg.py` is found in the `WEBA` directory (needs Python 3.6 or later).
 
 **NOTE:** This requires the `lxml` package, which can be installed with\
 `python3 -m pip install lxml`. It might be possible to rewrite the script to use the standard `xml.etree.ElementTree` module. I haven't tried that; I like `lxml`.
